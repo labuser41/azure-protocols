@@ -46,15 +46,23 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 <h4>Used Remote Desktop to connect to my Windows 10 Virtual Machine. Within my Windows 10 Virtual Machine, Installed Wireshark.</h4>
-
-</p>
-<br />
-
-<p>
 <img src="https://github.com/labuser41/azure-protocols/assets/144741692/7f7bd076-ef10-4d10-a400-89571707abd1)"/>
+  
+<img src="https://github.com/labuser41/azure-protocols/assets/144741692/c5542954-5754-43fc-aeea-f74232674692"/>
+<h4>From The Windows 10 VM, PowerShell was opened and the private IP address was pinged as well as google.com to monitor traffic in WireShark.</h4> 
+<img src="https://github.com/labuser41/azure-protocols/assets/144741692/c2142f2c-c5b1-476f-9ee2-8e0a2ecb6e0d"/>
+
+
+
+
+<img src="https://github.com/labuser41/azure-protocols/assets/144741692/c02260f3-f068-471e-abe3-b0c18ff37f18"/>
+
+<h4>Ping to google.com</h4>
+<img src="https://github.com/labuser41/azure-protocols/assets/144741692/42b0fd72-5bd7-4514-a716-715005d20d9e"/>
+
+<p>
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
